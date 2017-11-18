@@ -13,7 +13,7 @@ Theme as a userstyle [here](https://userstyles.org/styles/).
 ### **You can also install all my themes at once from [here](https://github.com/RaitaroH/Import-All-Deepdark).**
 
 
-# Screemshots
+# Screenshots
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/)
 
 # Colors 
