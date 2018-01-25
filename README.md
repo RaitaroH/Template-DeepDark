@@ -6,7 +6,7 @@ This is a dark theme for ### inspired by [FT DeepDark](https://addons.mozilla.or
 
 Also, credit where credit is due for the color palettes down bellow. ([@KDE](https://github.com/KDE), [@horst3180](https://github.com/horst3180), [@linuxmint](https://github.com/linuxmint), [Firefox](https://www.mozilla.org/en-US/firefox/new/), [YouTube](https://www.youtube.com/) and [Discord](https://discordapp.com/))
 
-Install from github: [here](https://rawgit.com/RaitaroH/###-DeepDark/master/###DeepDark.user.css), using Stylus.
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://rawgit.com/OpenUserCSS/OpenUserCSS-DeepDark/master/###DeepDark.user.css)
 
 Theme as a userstyle [here](https://userstyles.org/styles/).
 
@@ -17,14 +17,11 @@ Theme as a userstyle [here](https://userstyles.org/styles/).
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/)
 
 # Colors 
-The colors are available in the code; different colors can be used.
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/ArcDark_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/BreezeDark_Colors.png)
+The colors are available in the code; different colors can be used. Here are just a few colors. For every color example please look [here](https://github.com/OpenUserCSS/OpenUserCSS-DeepDark#colors).
+
+DeepDark
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/DeepDark_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/Discord_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/Firefox_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/Firefox57_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/Mint-Y-Dark_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/VertexDark_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/YouTube_Colors.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/9anime_Colors.png)
+
+BreezeDark
+![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/BreezeDark_Colors.png)
+
