@@ -1,5 +1,5 @@
 # Template-DeepDark
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/###%20-%20DeepDark.png)
+![alt tag](./Images/###%20-%20DeepDark.png)
 A template for deepdark themes.
 
 This is a dark theme for ### inspired by [FT DeepDark](https://addons.mozilla.org/en-US/firefox/addon/ft-deepdark/?src=search). 
@@ -14,14 +14,14 @@ Theme as a userstyle [here](https://userstyles.org/styles/).
 
 
 # Screenshots
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/)
+![alt tag](./Images/)
 
 # Colors 
 The colors are available in the code; different colors can be used. Here are just a few colors. For every color example please look [here](https://github.com/OpenUserCSS/OpenUserCSS-DeepDark#colors).
 
 DeepDark
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/DeepDark_Colors.png)
+![alt tag](./Images/DeepDark_Colors.png)
 
 BreezeDark
-![alt tag](https://raw.githubusercontent.com/RaitaroH/###-DeepDark/master/Images/BreezeDark_Colors.png)
+![alt tag](./Images/BreezeDark_Colors.png)
 
